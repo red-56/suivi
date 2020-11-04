@@ -5,3 +5,7 @@
 ## 03/11
 * AIA : Amélioration de l'algo NLP pour qu'il détecte le nom des  villes ou bien qu'il génère une erreur 
 * ESP : Test/Suivi nouvelles features
+
+## 04/11
+* AIA : Detection des different élément de la phrase en Input
+* ESP : Bot IA 1 , prise de position en fonction de la var 1h
