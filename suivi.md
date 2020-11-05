@@ -9,3 +9,7 @@
 ## 04/11
 * AIA : Detection des different élément de la phrase en Input
 * ESP : Bot IA 1 , prise de position en fonction de la var 1h
+
+## 05/11
+* AIA : Sequençage des villes en Input
+* ESP : Modification modele afin d'avoir de meilleurs résulat +  ajout du parametre tendance
