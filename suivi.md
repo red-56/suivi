@@ -13,3 +13,6 @@
 ## 05/11
 * AIA : Sequençage des villes en Input
 * ESP : Modification modele afin d'avoir de meilleurs résulat +  ajout du parametre tendance
+
+## 06/11
+* AIA : Gestion du Speech to text et integration au model
