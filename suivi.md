@@ -16,3 +16,10 @@
 
 ## 06/11
 * AIA : Gestion du Speech to text et integration au model
+
+## 09/11
+* DAT : Suite à reunion pédago , modification du cluster de client
+
+## 16/11
+* AIA : Parametrage des stop et symbolinc word et test sur le model
+
