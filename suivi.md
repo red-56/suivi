@@ -23,3 +23,6 @@
 ## 16/11
 * AIA : Parametrage des stop et symbolinc word et test sur le model
 
+## 23/11
+* ESP : Création d'un questionnaire de retour client
+* ESP : Reunion équipe + Reunion pedago + Début rédaction business plan
