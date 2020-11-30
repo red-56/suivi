@@ -26,3 +26,6 @@
 ## 23/11
 * ESP : Création d'un questionnaire de retour client
 * ESP : Reunion équipe + Reunion pedago + Début rédaction business plan
+
+## 30/11
+* ESP : Rédation des nouvelles specs ainsi que la redaction complète du business plan
