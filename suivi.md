@@ -29,3 +29,8 @@
 
 ## 30/11
 * ESP : Rédation des nouvelles specs ainsi que la redaction complète du business plan
+
+## 07/12
+* Preparation Keynote ESP
+* Preparation nouvelle annonce Job fair
+* Analyse et teste du modele NLP récement push 
