@@ -31,6 +31,12 @@
 * ESP : Rédation des nouvelles specs ainsi que la redaction complète du business plan
 
 ## 07/12
-* Preparation Keynote ESP
-* Preparation nouvelle annonce Job fair
+* Préparation Keynote ESP
+* Préparation nouvelle annonce Job fair
 * Analyse et teste du modele NLP récement push 
+
+## 08/12
+* Fin de la rédaction du powerpoint keynote
+* Keynote blanche avec l'équipe
+* Keynote de 1h30 avec le pédago
+* Recherche amélioration de notre modèle NLP
