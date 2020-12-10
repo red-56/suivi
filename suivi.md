@@ -40,3 +40,10 @@
 * Keynote blanche avec l'équipe
 * Keynote de 1h30 avec le pédago
 * Recherche amélioration de notre modèle NLP
+
+## 09/12
+* IA : Calibrage fonction Stemming/Lemming 
+
+## 10/12
+* ESP : Point équipe sur recrutement
+* IA : Test et analyse des resultat obtenu suite au modifications
