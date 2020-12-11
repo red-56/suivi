@@ -47,3 +47,6 @@
 ## 10/12
 * ESP : Point équipe sur recrutement
 * IA : Test et analyse des resultat obtenu suite au modifications
+
+## 11/02
+* DAT : Evolution algorithme clustering 
