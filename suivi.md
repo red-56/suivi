@@ -50,3 +50,6 @@
 
 ## 11/02
 * DAT : Evolution algorithme clustering 
+
+## 14/12
+* DAT : Création solution B , developpmeent algorithme de Clustering from scratch + follow up DAT
