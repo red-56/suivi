@@ -53,3 +53,20 @@
 
 ## 14/12
 * DAT : Création solution B , developpmeent algorithme de Clustering from scratch + follow up DAT
+
+## 04/01
+* DAT : Mise en place nouvelle methode cluster client
+
+## 05/01
+* LAW : Redaction T-LAW
+
+## 06/01
+* LAW : Redaction T-LAW
+* AIA : Ajout filtre départ
+
+## 07/01
+* LAW : Fin du T-LAW
+* AIA : Changement algorithme pour route plus courte
+
+## 08/01
+* DAT : Mise en place cluster produit en partant du  cluster client
