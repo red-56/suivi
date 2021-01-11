@@ -70,3 +70,6 @@
 
 ## 08/01
 * DAT : Mise en place cluster produit en partant du  cluster client
+
+## 11/01
+* AIA : Follow Up avec Pédago , réunion d'équipe et developpemnt
