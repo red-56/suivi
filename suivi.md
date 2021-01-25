@@ -76,3 +76,6 @@
 
 ## 18/01
 * DAT : Intégration de calcul d'indicateur sur les modèles
+
+## 25/01
+* DAT : Reformatation du Code + mise en place d'une UI de choix des features
