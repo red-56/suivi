@@ -73,3 +73,6 @@
 
 ## 11/01
 * AIA : Follow Up avec Pédago , réunion d'équipe et developpemnt
+
+## 18/01
+* DAT : Intégration de calcul d'indicateur sur les modèles
