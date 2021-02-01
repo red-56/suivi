@@ -79,3 +79,7 @@
 
 ## 25/01
 * DAT : Reformatation du Code + mise en place d'une UI de choix des features
+
+## 01/02
+* ESP : Follow UP + prévison dernière milestone
+* DAT : Follow UP + ajustement du cluster
