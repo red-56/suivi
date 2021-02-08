@@ -83,3 +83,6 @@
 ## 01/02
 * ESP : Follow UP + prévison dernière milestone
 * DAT : Follow UP + ajustement du cluster
+
+## 08/02
+* AIA : Réunion équipe + dernier ajustement
