@@ -86,3 +86,6 @@
 
 ## 08/02
 * AIA : Réunion équipe + dernier ajustement
+
+## 15/02
+* AIA : Réunion pedago et ajout des benchmarks et modification de la docs
