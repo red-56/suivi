@@ -89,3 +89,6 @@
 
 ## 15/02
 * AIA : Réunion pedago et ajout des benchmarks et modification de la docs
+
+## 22/02
+* DAT : Finissions + Doc 
