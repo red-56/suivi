@@ -92,3 +92,9 @@
 
 ## 22/02
 * DAT : Finissions + Doc 
+
+## T10
+
+## 15/03
+* ESP : Nouvelles taches + plan du rendu(Doc strategie marketing + financière )
+
